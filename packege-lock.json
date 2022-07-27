@@ -1,0 +1,37 @@
+{
+  "name": "github-boxcutter",
+  "version": "0.0.5",
+  "lockfileVersion": 1,
+  "requires": true,
+  "dependencies": {
+    "jquery": {
+      "version": "3.3.1",
+      "resolved": "https://registry.npmjs.org/jquery/-/jquery-3.3.1.tgz",
+      "integrity": "sha512-Ubldcmxp5np52/ENotGxlLe6aGMvmF4R8S6tZjsP6Knsaxd/xp3Zrh50cG93lR6nPXyUFwzN3ZSOQI0wRJNdGg=="
+    }
+  }
+{
+  "name": "github-boxcutter",
+  "version": "0.0.5",
+  "description": "Github.com package manifest enhancements",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/truenorth/github-boxcutter.git"
+  },
+  "keywords": [
+    "github",
+    "chrome-extension",
+    "developer-tools"
+  ],
+  "author": "Mike North <michael.l.north@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/truenorth/github-boxcutter/issues"
+  },
+  "homepage": "https://github.com/truenorth/github-boxcutter",
+  "dependencies": {
+    "jquery": "^3"
+  }
+}
+}
