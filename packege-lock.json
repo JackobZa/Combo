@@ -9,10 +9,10 @@
       "resolved": "https://registry.npmjs.org/jquery/-/jquery-3.3.1.tgz",
       "integrity": "sha512-Ubldcmxp5np52/ENotGxlLe6aGMvmF4R8S6tZjsP6Knsaxd/xp3Zrh50cG93lR6nPXyUFwzN3ZSOQI0wRJNdGg=="
     }
-  }
+  },
 {
   "name": "github-boxcutter",
-  "version": "0.0.5",
+  "version": "1.5.5",
   "description": "Github.com package manifest enhancements",
   "main": "index.js",
   "repository": {
@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/truenorth/github-boxcutter",
   "dependencies": {
-    "jquery": "^3"
+  "jquery": "^3"
   }
 }
 }
